@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BUDDY",
+  "description": "Tactical AI Assistant for secure military document analysis and intelligence extraction.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
